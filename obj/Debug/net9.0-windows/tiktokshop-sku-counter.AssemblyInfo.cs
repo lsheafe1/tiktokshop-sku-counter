@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tiktokshop-sku-counter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ecf3c7c0366bbebad5d1e9ba2e3db41987ac8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ce53bca79bd973ed752b4811be7afbbc74f2756")]
 [assembly: System.Reflection.AssemblyProductAttribute("tiktokshop-sku-counter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tiktokshop-sku-counter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
